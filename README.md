@@ -2,7 +2,7 @@
 
 ## About this book
 
-This is a book on the functional paradigm in general. We'll use the world's most popular functional programming language: JavaScript. Some may feel this is a poor choice as it's against the grain of the current culture which, at the moment, feels predominately imperative. However, I believe it is the best way to learn FP for several reasons:
+This is a book on the functional paradigm in general. We'll use the world's most popular functional programming language: JavaScript (and now in Python!). Some may feel this is a poor choice as it's against the grain of the current culture which, at the moment, feels predominately imperative. However, I believe it is the best way to learn FP for several reasons:
 
  * **You likely use it every day at work.**
 
